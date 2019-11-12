@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{ color:darkblue;
+font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+font-size: 100px;
+flex-direction: column-reverse;
+
+}
